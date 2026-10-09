@@ -1,5 +1,5 @@
 var secretNumber = Math.floor(Math.random() * 100) + 1;
-var attempts = 0;
+var attempts = 20;
 
 function startGame() {
 
